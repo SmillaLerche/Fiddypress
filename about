@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fiddypress</title>
+    <link rel="stylesheet" href="../Fiddypress/css/index.css">
+    <meta name="robots" content="noindex"> 
+</head>
+<body>
+ 
+  <header>
+    <div class="logo">
+      <a href="../Fiddypress/index.html">
+        <img src="/Logo/SVG/logo_lyserød.svg" alt="logo">
+       </a>
+  </div>
+  <nav>
+    <ul id="clothing">
+    <li><a href="index.html"></a></li>
+    <li><a href="clothing.html">CLOTHING</a>
+      <ul class="dropdown">
+        <li><a href="#">Fiddy x Wifey</a></li>
+        <li><a href="#">Dj Lilli</a></li>
+        <li><a href="#">Hoodies</a></li>
+        <li><a href="#">T-shirts</a></li>
+    <li><a href="#">Customize</a></li>
+    </li>
+      </ul>
+      <ul id="rest">
+    <li><a href="jewellery.html">JEWELLERY</a></li>
+    <li><a href="books.html">BOOKS</a></li>
+    <div class=" a_c">
+    <li><a href="about.html">ABOUT</a></li>
+    <li><a href="contact.html">CONTACT</a></li>
+  </div>
+  </ul>
+  </nav>>
+    </header>
+<main>
+    <div class="about">
+      <img src="../about_billede.png">
+    </div>
+    
+  
+    <div class="about2"> <h2>ABOUT</h2></div>
+    <div class="dansk"><h3>FiddyPress er skabt med intentionen om at lave sjove og customized pieces, i overensstemmelse med vores etiske værdier. Hos FiddyPress har vi et feministisk og sexpositivt mindset, vi tror på ligestilling og på at alle har ret til at være, den de er. Derudover, holder vi af vores planet, og derfor er alle FiddyPress produkter lavet af 100% økologisk bomuld.</div>
+    <div class="mellemrum"><h3>//</h3></div>
+    <div class="engelsk"><h3>FiddyPress was created with the intent to make fun and customized pieces, in alignment with our ethical values. At FiddyPress we have a feministic and sex-positive mindset, we believe in equality and that everyone has the right to be who they are. Furthermore, we care about our planet, and therefore all Fiddypress products are made from 100% organic cotton.</h3></div>
+    
+    </main>
+    <!-- <footer>
+      <div class="footer_1">
+        <div class="email_f"> <p>Email: kontakt@fiddy-press.dk</p></div>
+        <div class="phone_f"> <p>Phone: +45 42 60 03 58</p></div>
+         <div class="adress_f"> <p>Adress: Bredgade 36D</p></div>
+        <div class="cvr_f"> <p>Cvr: 42638951</p></div>
+      </div>
+      <div class="footer_2">
+        <div class="privacy"> <p>Privacy policy</p></div>
+        <div class="refund"> <p>Refund policy</p></div>
+         <div class="shipping"> <p>Shipping policy</p></div>
+        <div class="terms"> <p>Terms of policy</p></div>
+      </div>
+    </footer> -->
+</body>
+</html>
